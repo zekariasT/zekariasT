@@ -11,13 +11,13 @@ citizens, and I build AI-native tooling such as RAG pipelines and MCP servers.
 
 #### Featured Projects
 
-**[SyncPoint](https://github.com/zekariasT/SyncPoint)** — AI-native team operating system.
+**[SyncPoint](https://github.com/zekariasT/SyncPoint):** AI-native team operating system.
 Real-time presence, RAG-powered semantic search over team documents, and multi-tenant RBAC.
 Includes an atomic vector-sync pipeline that keeps the AI knowledge base a perfect mirror of
 the relational database. [Live demo](https://syncpoint-frontend.vercel.app)
 `Next.js` `NestJS` `Prisma` `Socket.io` `Pinecone` `Gemini`
 
-**[Karta](https://github.com/zekariasT/karta)** — Local MCP server that gives AI coding agents
+**[Karta](https://github.com/zekariasT/karta):** Local MCP server that gives AI coding agents
 stack-aware reconnaissance tools for an unfamiliar codebase, plus an interactive 3D
 architecture viewer. Detects NestJS, Next.js, or plain Node/TS and adapts its analysis.
 `TypeScript` `Node.js` `MCP SDK` `ts-morph`
